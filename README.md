@@ -1,7 +1,7 @@
 
 Semester project for Fundamentals of Computer Programming
 
-## About system
+# About system
 <p align="left">
   <img src="https://github.com/Barteczko/Project-focp/blob/master/parking.jpg" width="150" title="Logo">
 </p>
